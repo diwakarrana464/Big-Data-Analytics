@@ -30,5 +30,7 @@ This repository contains Data Analysis Example of Lab of NITT
 ## Final output in command line
 ![cmd_output](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/eb9f8af6-c9a0-4132-a4b0-9738b25a92ec)
 ## Final output in browser in part file
+![part_fileoutput](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/50a28f78-0d42-40df-94b1-c1a08afe3daa)
+
 ## cluster report
 
