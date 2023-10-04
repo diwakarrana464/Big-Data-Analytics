@@ -1,0 +1,3 @@
+com\rana\MaxTemperature\Max_Temp_Mapper.class
+com\rana\MaxTemperature\Max_Temp_Reducer.class
+com\rana\MaxTemperature\Max_Temp_Runner.class
