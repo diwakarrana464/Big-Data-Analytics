@@ -22,3 +22,8 @@ This repository contains Data Analysis Example of Lab of NITT
             2017                        22
 ## sample dataset for processing
  (https://drive.google.com/file/d/1YdwfKn92fSN6kULuGCmHBN5VHJWnduiK/view?usp=drive_link)
+## Simple steps to perform
+            step 1 : Make new java maven project and add dependencies in pom.xml file as we have done in Word Count
+            step 2 : Write Mapper, Reducer, Driver (Runner) class
+            step 3 : clean and build project with maven clean followed by maven install
+            step 4 : take jar file and run it in hadoop cluster
