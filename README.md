@@ -27,3 +27,7 @@ This repository contains Data Analysis Example of Lab of NITT
             step 2 : Write Mapper, Reducer, Driver (Runner) class
             step 3 : clean and build project with maven clean followed by maven install
             step 4 : take jar file and run it in hadoop cluster
+## Final output in command line
+## Final output in browser in part file
+## cluster report
+
