@@ -29,6 +29,8 @@ This repository contains Data Analysis Example of Lab of NITT
             step 4 : take jar file and run it in hadoop cluster
 ## flow diagram of program
 ![Screenshot (27)](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/3eb69ed7-c99e-41e8-9ebc-db4a885420ca)
+## Mapper Method
+![Screenshot (28)](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/11d10b41-8159-4bf4-b0b5-a36fec6db769)
 ## Final output in command line
 ![cmd_output](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/eb9f8af6-c9a0-4132-a4b0-9738b25a92ec)
 ## Final output in browser in part file
