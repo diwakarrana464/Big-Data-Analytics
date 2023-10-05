@@ -28,7 +28,7 @@ This repository contains Data Analysis Example of Lab of NITT
             step 3 : clean and build project with maven clean followed by maven install
             step 4 : take jar file and run it in hadoop cluster
 ## flow diagram of program
-![Screenshot (27)](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/64d3e65f-bf88-4695-bb0c-3ab09bf8add6)
+![Screenshot (27)](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/3eb69ed7-c99e-41e8-9ebc-db4a885420ca)
 ## Final output in command line
 ![cmd_output](https://github.com/diwakarrana464/Big-Data-Analytics/assets/37569837/eb9f8af6-c9a0-4132-a4b0-9738b25a92ec)
 ## Final output in browser in part file
